@@ -1,0 +1,195 @@
+[
+  {
+    "title": "Windowsill or Patio Colour Census",
+    "introduction": "A gentle start: stay in your own garden or balcony and count the colours hiding in plain sight. No walking far, no gear, just your eyes.",
+    "steps": [
+      "Stand somewhere in your garden or on your balcony and take three slow breaths.",
+      "Scan slowly from left to right and silently count every distinct colour you can find: greens, browns, flower tones, pot colours, even rust or paint.",
+      "Pick the three rarest colours and notice where each one sits in the space.",
+      "Crouch down and look again from knee height, then stand up and finish with one last slow scan to see if the count changed."
+    ],
+    "observation_goal": "Find at least six distinct colours in your garden or balcony space, including two shades of green.",
+    "completion_condition": "You can name your six colours and the rarest one you spotted before heading back inside.",
+    "safety_notes": [
+      "Stay on paths and paved areas; step over garden tools and hoses rather than on them.",
+      "Keep traffic in mind if your garden borders a road: stay back from the edge and keep an eye on cars.",
+      "Do not taste or touch unknown plants, berries, or insects while observing them."
+    ],
+    "duration_minutes": 10,
+    "environment": "garden",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Park Bench Sound Map",
+    "introduction": "Find a bench or a patch of grass in your local park and map the invisible world of sound around you for a few quiet minutes.",
+    "steps": [
+      "Choose a safe spot away from paths and sit or stand comfortably.",
+      "Close your eyes for one minute and count how many separate sound sources you can name.",
+      "Open your eyes and for each sound, guess its direction and distance: near, middle, far.",
+      "Look for one sound you cannot identify, then take one more minute to notice the quietest layer of sound underneath the rest."
+    ],
+    "observation_goal": "Identify at least four distinct sound sources and their rough directions.",
+    "completion_condition": "You have noted four sounds with directions and picked out the quiet background layer.",
+    "safety_notes": [
+      "Stay on open lawn or paved areas and keep aware of cyclists, runners, and traffic near park edges.",
+      "Keep to well-used parts of the park and follow any road or path signage.",
+      "Observe birds and other wildlife from a distance; never feed or chase them."
+    ],
+    "duration_minutes": 10,
+    "environment": "park",
+    "difficulty": "moderate"
+  },
+  {
+    "title": "Front-Step Nature Window",
+    "introduction": "Step just outside your front door and treat the first ten meters of your neighborhood as a tiny nature reserve to observe.",
+    "steps": [
+      "Stand on your step or by your gate and look up at the sky for thirty seconds.",
+      "Find three living things: a plant, an insect, or a bird, all viewed from a safe distance.",
+      "Notice one sign of the season: a changing leaf, a bud, a cobweb, or bare branches.",
+      "Look at one building or wall closely, then watch one bird or one swaying branch for a full minute without moving."
+    ],
+    "observation_goal": "Spot three living things and one clear sign of the current season.",
+    "completion_condition": "You can name your three living things and the seasonal sign before going back inside.",
+    "safety_notes": [
+      "Stay on the pavement or your own property; never step into the road or a driveway to look closer.",
+      "Be traffic-aware at all times: cars may pull out of driveways, so keep to safe ground.",
+      "Look but do not touch unknown plants or insects, and wash your hands after being outdoors."
+    ],
+    "duration_minutes": 10,
+    "environment": "neighborhood",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Balcony or Garden Breath-and-Leaf Loop",
+    "introduction": "A slightly longer stay in your own green space, pairing slow breathing with close observation of a single plant.",
+    "steps": [
+      "Water your plant beds if they need it, or simply dampen your hands and notice the smell of soil.",
+      "Choose one plant and study a single leaf: outline, veins, edges, and any bite marks from insects.",
+      "Trace the leaf's shape with your eyes (not your fingers) and count the main veins.",
+      "Look up and find two plants or trees that share a similar leaf shape.",
+      "Sit quietly for two minutes and watch how the chosen leaf moves in the breeze.",
+      "Close by naming three things you saw today that you had never noticed before."
+    ],
+    "observation_goal": "Describe one leaf in detail and find two other plants with a similar leaf shape.",
+    "completion_condition": "You have studied one leaf closely and matched it against two other plants in the space.",
+    "safety_notes": [
+      "Stay on paths and stable ground; watch your footing on wet tiles or soil.",
+      "If your garden borders a road, keep traffic in mind and stay a step back from the edge.",
+      "Observe insects from a distance and never handle unknown insects or taste any plant part."
+    ],
+    "duration_minutes": 20,
+    "environment": "garden",
+    "difficulty": "moderate"
+  },
+  {
+    "title": "Five-Tree Personality Portraits",
+    "introduction": "Take a slow loop through your nearest park and give five trees a personality based only on what you can observe.",
+    "steps": [
+      "Walk a easy loop and stop at the first tree that catches your eye.",
+      "Study its trunk texture, branch angles, and height, then invent a one-word personality for it.",
+      "Repeat for a second tree and notice how different its bark and shape are.",
+      "Find a third tree with leaves still on it and compare leaf shapes with the first two.",
+      "Sit for a few minutes near your favourite of the five and watch its movement in the wind.",
+      "On the way back, pick the tree you would like to visit again and say why out loud."
+    ],
+    "observation_goal": "Observe five trees closely enough to describe their bark, shape, and one distinguishing feature each.",
+    "completion_condition": "You have five one-word tree personalities and a favourite you can justify.",
+    "safety_notes": [
+      "Keep to established park paths and stay clear of any road around the park boundary.",
+      "Watch for cyclists and other people on shared paths; step aside politely.",
+      "Do not climb trees or fences, and give nests and wildlife a wide berth."
+    ],
+    "duration_minutes": 20,
+    "environment": "park",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Street-Level Texture Hunt",
+    "introduction": "A slower neighborhood walk with a mission: collect visual textures instead of objects, and notice how built and living things mix.",
+    "steps": [
+      "Plan a short loop entirely on pavements and crossings, then set off at an unhurried pace.",
+      "Spot and photograph or mentally note five textures: brick, bark, leaf, metal, fabric-like moss or lichen.",
+      "For each texture, guess what made it: weather, growth, people, or time.",
+      "Find one place where a plant is quietly reclaiming a wall, crack, or fence.",
+      "Stop at a safe crossing and watch how wind moves through one tree or hedge for a minute.",
+      "Finish by choosing the texture you would most like to touch with clean hands later, and why."
+    ],
+    "observation_goal": "Collect five different textures and identify one plant reclaiming a built surface.",
+    "completion_condition": "All five textures noted, one reclamation spot found, and the wind-watching minute completed.",
+    "safety_notes": [
+      "Cross only at crossings or quiet junctions and stay on the pavement at all times.",
+      "Traffic comes first: stop looking at textures whenever you are near or crossing a road.",
+      "Do not touch unknown plants, fungi, or insects; observe them from a short distance."
+    ],
+    "duration_minutes": 20,
+    "environment": "neighborhood",
+    "difficulty": "challenging"
+  },
+  {
+    "title": "Slow Park Audit Walk",
+    "introduction": "Thirty minutes of deliberate wandering with a purpose: notice what makes this park feel alive, and what would make it better.",
+    "steps": [
+      "Walk a slow full loop of the park and notice light, shade, and open space.",
+      "Stop three times for two minutes each: once to listen, once to watch movement, once to smell the air.",
+      "Find evidence of wildlife you cannot see: feathers, nibbled leaves, holes, or tracks.",
+      "Pick one spot you would return to with a book and describe what makes it work.",
+      "Notice one maintenance or safety issue, such as broken lighting, without touching or entering anything.",
+      "Close your loop with a two-minute standstill observation of one wide view.",
+      "Recall your three favourite micro-moments on the walk home in your head."
+    ],
+    "observation_goal": "Collect three two-minute observations plus one piece of wildlife evidence.",
+    "completion_condition": "You completed the full loop, the three timed stops, and identified a favourite reading spot.",
+    "safety_notes": [
+      "Keep to lit, well-used paths and stay aware of roads and traffic at every park boundary.",
+      "Follow park signage and stay out of any closed, fenced, or restricted sections.",
+      "Observe wildlife evidence from a distance; do not touch feathers, nests, or animal traces."
+    ],
+    "duration_minutes": 30,
+    "environment": "park",
+    "difficulty": "moderate"
+  },
+  {
+    "title": "Evening Block Sensory Circuit",
+    "introduction": "A half-hour circuit around your own block using one sense at a time, ideal for winding down before the day ends.",
+    "steps": [
+      "Check the light and weather, wear something visible, and plan a loop on quiet pavements.",
+      "First block segment: hearing only. Note every sound and its direction.",
+      "Second segment: sight only. Count birds, moving branches, and lit windows.",
+      "Third segment: smell only. Name three scents: soil, food, plants, rain, or city air.",
+      "Pause at a safe spot for a two-minute standstill and notice how your breathing settles.",
+      "Finish the loop and recap one highlight for each sense before heading home."
+    ],
+    "observation_goal": "Complete one observation for each of hearing, sight, and smell while walking the loop.",
+    "completion_condition": "Full loop finished with one highlight recorded per sense and the standstill pause done.",
+    "safety_notes": [
+      "Wear something visible, carry a light if it is dark, and stay on pavements away from traffic.",
+      "Cross at crossings only and keep awareness on roads even while focused on a single sense.",
+      "Leave unknown plants and animals alone; report any unleashed or stray animals from a distance."
+    ],
+    "duration_minutes": 30,
+    "environment": "neighborhood",
+    "difficulty": "easy"
+  },
+  {
+    "title": "Rooftop, Courtyard, or Veranda Sky Log",
+    "introduction": "For any safe shared outdoor space: a half-hour sky-watching session that needs nothing but a chair and your attention.",
+    "steps": [
+      "Set up in a safe, open spot with a clear view of the sky and secure railings behind you.",
+      "Watch for five minutes and log every cloud type you can distinguish.",
+      "Track one bird or aircraft across the sky and note its direction and speed compared to others.",
+      "Watch how the light changes on one building or plant over five minutes.",
+      "Listen for five minutes and note which sounds arrive from above versus around you.",
+      "Close with a two-minute pause, then write or say three things the sky taught you today."
+    ],
+    "observation_goal": "Log at least two cloud types, one tracked moving object, and one light change.",
+    "completion_condition": "The cloud log, the tracked object, the light change, and the closing pause are all done.",
+    "safety_notes": [
+      "Stay behind railings or on stable, level ground and keep away from edges at all times.",
+      "If the space borders a road, keep traffic in mind and never lean over to look down.",
+      "Do not use binoculars or screens continuously; keep eyes on your footing when moving."
+    ],
+    "duration_minutes": 30,
+    "environment": "other_public",
+    "difficulty": "challenging"
+  }
+]

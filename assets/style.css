@@ -1,0 +1,156 @@
+:root {
+  --oq-ink: #1c2420;
+  --oq-forest: #1f4d36;
+  --oq-moss: #2e6b4f;
+  --oq-cream: #f6f3ea;
+  --oq-card: #fffdf7;
+  --oq-bark: #5b4636;
+  --oq-line: #d9d2c2;
+  --oq-accent: #9a4f1b;
+}
+
+.stApp {
+  background: linear-gradient(180deg, #eef3ea 0%, var(--oq-cream) 220px);
+}
+
+.oq-hero h1 {
+  color: var(--oq-forest);
+  letter-spacing: 0.2px;
+}
+
+.oq-tagline {
+  color: var(--oq-bark);
+  font-size: 1.05rem;
+  margin-top: -0.4rem;
+}
+
+.oq-card {
+  background: var(--oq-card);
+  border: 1px solid var(--oq-line);
+  border-left: 6px solid var(--oq-moss);
+  border-radius: 14px;
+  padding: 1.4rem 1.6rem 1.2rem 1.5rem;
+  margin: 0.4rem 0 1rem 0;
+}
+
+.oq-card h2,
+.oq-card h3 {
+  color: var(--oq-forest);
+  margin-top: 0.2rem;
+}
+
+.oq-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.4rem 0 0.8rem 0;
+}
+
+.oq-chip {
+  display: inline-block;
+  background: #e4eee6;
+  color: var(--oq-forest);
+  border: 1px solid #c6d8ca;
+  border-radius: 999px;
+  padding: 0.15rem 0.7rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.oq-badge-ai {
+  display: inline-block;
+  background: #1f4d36;
+  color: #ffffff;
+  border-radius: 6px;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.oq-badge-fallback {
+  display: inline-block;
+  background: var(--oq-accent);
+  color: #ffffff;
+  border-radius: 6px;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.oq-steps li {
+  margin: 0.35rem 0;
+  line-height: 1.55;
+}
+
+.oq-safety {
+  background: #fbf1e8;
+  border: 1px solid #ecd5c2;
+  border-radius: 10px;
+  padding: 0.8rem 1rem 0.4rem 1rem;
+}
+
+.oq-safety h3 {
+  color: var(--oq-accent);
+  margin-top: 0;
+}
+
+.oq-small {
+  color: #4c554e;
+  font-size: 0.85rem;
+}
+
+.oq-print-button {
+  background: var(--oq-forest);
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  padding: 0.55rem 1rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.oq-print-button:hover {
+  background: var(--oq-moss);
+}
+
+.oq-print-button:focus-visible {
+  outline: 3px solid #b7d2bf;
+  outline-offset: 2px;
+}
+
+div[data-testid="stForm"] {
+  background: var(--oq-card);
+  border: 1px solid var(--oq-line);
+  border-radius: 14px;
+}
+
+footer, header[data-testid="stHeader"] {
+  visibility: hidden;
+}
+
+@media print {
+  header[data-testid="stHeader"],
+  nav,
+  [data-testid="stSidebar"],
+  [data-testid="stToolbar"],
+  .stButton,
+  .oq-no-print,
+  .oq-print-button,
+  footer {
+    display: none !important;
+  }
+
+  .stApp {
+    background: #ffffff !important;
+  }
+
+  .oq-card {
+    border: 1px solid #999 !important;
+    break-inside: avoid;
+  }
+
+  .oq-safety {
+    border: 1px solid #999 !important;
+  }
+}

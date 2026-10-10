@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environment
+.venv/
+
+# Local runtime data (mission history SQLite DB)
+data/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*.env*
+.env.example
